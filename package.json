@@ -18,6 +18,12 @@
   "homepage": "https://github.com/kimyeongna/study#readme",
   "dependencies": {
     "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
     "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "gulp-nodemon": "^2.5.0"
   }
 }
